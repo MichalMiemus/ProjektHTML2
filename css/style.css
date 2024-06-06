@@ -52,7 +52,7 @@ body {
   font-weight: 700;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
   height: 65px;
 }
 
@@ -257,7 +257,6 @@ body {
   }
   .footer-menu {
     font-size: 18px;
-    justify-content: center;
   }
   .grid-container {
     grid-template-columns: repeat(2, 200px);
