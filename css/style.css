@@ -197,7 +197,7 @@ footer .links li a {
 
 /* container for employee description */
 .info-container {
-  order: 1;
+  order: 2;
   flex: 0;
   width: 100%;
 }
